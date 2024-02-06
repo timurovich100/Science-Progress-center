@@ -1,0 +1,112 @@
+@media screen and (max-width: 400px) {
+  nav {
+    padding: 15px 0;
+    text-align: center;
+  }
+  nav .container {
+    width: 90%;
+
+    flex-direction: column;
+    gap: 10px;
+  }
+  nav .container .right a {
+    padding: 5px 10px;
+  }
+
+  .main .container {
+    width: 85%;
+
+    flex-direction: column;
+  }
+  .main .container .left h1 {
+    width: 100%;
+    font-size: 30px;
+  }
+  .main .container .right img {
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+  section .container {
+    width: 90%;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  section .container .cards {
+    width: 100%;
+  }
+  .img .container {
+    width: 90%;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .img .container .left img {
+    width: 100%;
+  }
+  .img .container .right {
+    width: 90%;
+  }
+  .img .container .right p .a {
+    padding: 10px 0;
+  }
+  .sas .container {
+    width: 90%;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .sas .container .left .cas1 {
+    width: 100%;
+  }
+  .sas .container .left .cas {
+    width: 100%;
+  }
+  .sas .container .right img {
+    width: 100%;
+  }
+  .sas .container .right .la {
+    width: 90%;
+  }
+  .ppp .container {
+    width: 75%;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+  .h1 .container {
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+  }
+  .score .container {
+    width: 90%;
+    flex-direction: column;
+  }
+  .score .container .balls {
+    width: 90%;
+  }
+  .ass .container {
+    width: 90%;
+  }
+  .qww .container {
+    width: 90%;
+  }
+  .contacts {
+    width: 90%;
+    flex-direction: column;
+  }
+  .lol .container {
+    width: 90%;
+    flex-direction: column;
+  }
+  .lol .container .left {
+    width: 95%;
+  }
+  .lol .right {
+    width: 90%;
+  }
+  .qwer {
+    width: 90%;
+    flex-direction: column;
+    margin: 0 auto;
+  }
+}
